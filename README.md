@@ -13,4 +13,4 @@ And there you have it! Your two numbers have been added together!
 * HTML
 * JavaScript
 
-URL: 
+URL: botzmatt.github.io/calculator
